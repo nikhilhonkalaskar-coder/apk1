@@ -1,0 +1,13 @@
+{
+	"appId": "com.tbi.app",
+	"appName": "TBI",
+	"webDir": "dist",
+	"server": {
+		"url": "http://tbi1.alwaysdata.net/",
+		"cleartext": true
+	},
+	"packageClassList": [
+		"CAPCameraPlugin",
+		"SplashScreenPlugin"
+	]
+}
